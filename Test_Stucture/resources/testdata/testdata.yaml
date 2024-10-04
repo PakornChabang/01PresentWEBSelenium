@@ -1,0 +1,15 @@
+user01:
+  email:  pakorn98@gmail.com
+  password: Nack@2108
+  cf_password:  Nack@2108
+  product:  Phone
+  name: Pakorn
+  surname:  Chabang
+  address:  10240
+  phone:  0962019484
+  creditcard: 4111111111111111    
+  exp:  11/2025    
+  cvc:  123
+
+product:
+  product_name: Coppee phone 1  
