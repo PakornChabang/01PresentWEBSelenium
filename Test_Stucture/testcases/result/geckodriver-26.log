@@ -1,0 +1,63 @@
+1728032167357	geckodriver	INFO	Listening on 127.0.0.1:62213
+1728032170428	mozrunner::runner	INFO	Running command: "C:\\Users\\User\\.cache\\selenium\\firefox\\win64\\131.0\\firefox.exe" "--marionette" "--remote-debugging-p ... 14" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile1RWUXB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1728032170884	Marionette	INFO	Marionette enabled
+1728032171030	Marionette	INFO	Listening on port 62223
+Read port: 62223
+WebDriver BiDi listening on ws://127.0.0.1:62214
+1728032171115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://training-platform.doppio-tech.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://training-platform.doppio-tech.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://training-platform.doppio-tech.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://training-platform.doppio-tech.com."
+1728032176372	Marionette	INFO	Stopped listening on port 62223
+JavaScript warning: https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js, line 1: Script terminated by timeout at:
+set value@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:1:12069
+l@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:51:683
+DCe</setup/<@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:51:1572
+DCe</Zr/</<@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:1:24095
+Oi@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:1:13594
+Ao@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:1:13675
+DCe</mp/t.__weh@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:1:23976
+rg@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:1:2022
+Y@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:1:45113
+W@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:1:44366
+Y@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:1:45148
+W@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:1:44366
+Y@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:1:45148
+W@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:1:44366
+Y@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:1:45148
+W@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:1:44366
+X@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:1:45396
+W@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:1:44579
+X@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:1:45396
+W@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:1:44579
+Y@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:1:45148
+W@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:1:44366
+Y@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:1:45148
+W@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:1:44366
+Y@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:1:45148
+W@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:1:44366
+Y@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:1:45148
+W@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:1:44366
+Z@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:1:45541
+Ma@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:1:64545
+r@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:380:40048
+afterClose@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:380:40482
+afterClose@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:345:15667
+c@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:345:13622
+d@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:345:11409
+onAfterLeave@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:345:12300
+Oi@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:1:13594
+Ao@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:1:13675
+C@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:1:21999
+DCe</dc/leave/T._leaveCb@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:1:22638
+_@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:1:60071
+R@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:1:60357
+i@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:1:61078
+d@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:1:61236
+f@https://training-platform.doppio-tech.com/assets/index-23b6c3c4.js:1:61269
+
+Dynamically enable window occlusion 1

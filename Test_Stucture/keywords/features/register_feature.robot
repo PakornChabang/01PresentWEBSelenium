@@ -5,6 +5,7 @@ Fill in registration and submit
     register_page.Input Register Password    ${user01.password}
     register_page.Input Confirm Password    ${user01.cf_password}
     register_page.Submit Registration
+    common.Click popup when ready
 
 
 

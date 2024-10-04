@@ -11,6 +11,7 @@ Resource    ${CURDIR}/../../keywords/features/home_feature.robot
 Resource    ${CURDIR}/../../keywords/features/cart_feature.robot
 Resource    ${CURDIR}/../../keywords/features/payment_feature.robot
 Resource    ${CURDIR}/../../keywords/features/register_feature.robot
+Resource    ${CURDIR}/../../keywords/features/user_profile_feature.robot
 
 #pages path
 Resource    ${CURDIR}/../../keywords/pages/home_page.robot

@@ -20,4 +20,3 @@ Fill card holder name in credit card details
 
 Click confirm payment
     common.Click when ready     ${payment_locator.confirm_payment_btn}
-    common.Click when ready     ${payment_locator.ok_btn}

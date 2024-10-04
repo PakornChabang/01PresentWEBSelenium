@@ -5,5 +5,3 @@ ${cart_locator.input_txt_address}    xpath=//input[@id='form_item_address']
 ${cart_locator.input_txt_phone}    xpath=//input[@id='form_item_phone']
 ${cart_locator.input_txt_email}    xpath=//input[@id='form_item_email']
 ${cart_locator.pay_btn}    xpath=//button[span[text()='PAY']]
-
-

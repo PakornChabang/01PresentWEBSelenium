@@ -5,8 +5,3 @@ ${payment_locator.exp_container}    xpath=//input[@id='basic_exp']
 ${payment_locator.cvc_container}    xpath=//input[@id='basic_cvc']
 ${payment_locator.holder_name_container}    xpath=//input[@id='basic_owner'] 
 ${payment_locator.confirm_payment_btn}    xpath=//button[span[text()='Confirm Payment']]
-${payment_locator.ok_btn}    xpath=//button[span[text()='OK']]
-
-
-
-

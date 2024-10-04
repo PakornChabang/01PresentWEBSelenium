@@ -22,8 +22,6 @@ Input email in delivery info
 Click pay button
     common.Click when ready     ${cart_locator.pay_btn}
 
-Open cart
-    common.Click when ready     ${common_locator.shopping_cart_icon}
 
 
     

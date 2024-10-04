@@ -1,6 +1,5 @@
 *** Keywords ***
-Logout
-    common.Click user icon
+Click logout
     common.Click when ready     ${user_profile_locator.logout_btn} 
 
 

@@ -6,3 +6,4 @@ sit:
 setup:
   browser:  gc
   wait_time:  10
+  popup_wait_time:  10

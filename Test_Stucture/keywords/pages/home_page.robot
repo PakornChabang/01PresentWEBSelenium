@@ -1,7 +1,9 @@
 *** Keywords ***
-Type and search product
+Type product name
     [Arguments]    ${product}
     common.Input when ready     ${home_locator.input_txt}     ${product}
+
+Click search product
     common.Click when ready     ${home_locator.search_btn}
 
 Click add product to cart
@@ -10,6 +12,5 @@ Click add product to cart
     ...    {{product}}     ${product.product_name} 
     common.Click when ready     ${new_locator}
 
-Click add to cart button and ok button
+Click add to cart button
     common.Click when ready     ${home_locator.add_to_cart_btn}
-    common.Click when ready     ${home_locator.ok_popup}

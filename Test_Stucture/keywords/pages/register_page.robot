@@ -13,7 +13,7 @@ Input confirm password
 
 Submit registration
     common.Click when ready     ${register_locator.submit_btn}
-    common.Click when ready     ${register_locator.ok_btn}
+
 
 
 

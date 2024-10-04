@@ -4,7 +4,3 @@ ${home_locator.search_btn}    xpath=//button[contains(@class, 'ant-input-search-
 
 ${home_locator.search_txt_product_name}    xpath=//div[@class='ant-card-meta-title' and text()='{{product}}']
 ${home_locator.add_to_cart_btn}    xpath=//button[contains(@class, 'cart-button') and span[text()='Add to cart']]
-${home_locator.ok_popup}    xpath=//button[contains(@class, 'ant-btn-primary') and span[text()='OK']]
-
-
-
