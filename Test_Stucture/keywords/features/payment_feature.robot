@@ -7,6 +7,3 @@ Fill in credit card details and confirm payment
     payment_page.Fill card holder name in credit card details    ${name} 
     payment_page.Click confirm payment
     common.Click popup when ready
-
-
-    

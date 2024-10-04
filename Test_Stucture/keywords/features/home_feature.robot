@@ -9,6 +9,3 @@ Type and search product
     [Arguments]    ${product}
     home_page.Type product name    ${product}
     home_page.Click search product
-
-
-

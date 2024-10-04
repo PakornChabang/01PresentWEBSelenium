@@ -12,8 +12,3 @@ Click login
 
 Click sign up button
     common.Click when ready     ${login_locator.sign_up_btn}
-
-
-
-
-    
