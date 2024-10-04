@@ -5,11 +5,13 @@ Test Teardown    SeleniumLibrary.Close Browser
 
 *** Test Cases ***
 Test Register 
+    [Tags]    register
     log_in_page.Click sign up button
     register_feature.Fill in registration and submit    ${user01.email}    ${user01.password}    ${user01.cf_password}
     user_profile_page.Logout
 
 Test Login
+    [Tags]    login
     log_in_feature.Login    ${user01.email}    ${user01.password}
     home_page.Type and search product    ${user01.product}
     home_feature.Add product to cart    ${product.product_name}
