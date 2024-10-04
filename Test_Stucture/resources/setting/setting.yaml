@@ -3,3 +3,6 @@ uat:
 sit:
   url : https://doppee.doppio-tech.com  
 
+setup:
+  browser:  gc
+  wait_time:  10
