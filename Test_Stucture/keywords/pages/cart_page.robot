@@ -1,5 +1,3 @@
-*** Settings ***
-Resource    common.robot
 *** Keywords ***
 Input name in delivery info
     [Arguments]    ${name}

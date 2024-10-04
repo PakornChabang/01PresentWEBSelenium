@@ -1,9 +1,9 @@
 *** Keywords ***
 Open website
-    SeleniumLibrary.Open Browser    ${${type}.url}
+    SeleniumLibrary.Open Browser    ${${type}.url}    gc
 
 Click user icon
-    Wait process    ${common_locator.user_icon}
+    common.Wait process    ${common_locator.user_icon}
     SeleniumLibrary.Click Element    ${common_locator.user_icon}
 
 Open cart

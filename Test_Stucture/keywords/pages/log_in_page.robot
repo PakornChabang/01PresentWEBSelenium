@@ -16,6 +16,7 @@ Click login and ok_btn
     SeleniumLibrary.Click Button    ${login_locator.ok_btn}
 
 Click sign up button
+    common.Click user icon
     common.Wait process    ${login_locator.sign_up_btn}
     SeleniumLibrary.Click Element    ${login_locator.sign_up_btn}
 

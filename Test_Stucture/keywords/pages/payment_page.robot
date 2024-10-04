@@ -1,4 +1,3 @@
-
 *** Keywords ***
 Select payment method
     common.Wait process    ${payment_locator.next_btn}
