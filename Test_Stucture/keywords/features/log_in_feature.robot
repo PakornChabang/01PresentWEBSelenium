@@ -1,5 +1,3 @@
-*** Settings ***
-Resource    ../pages/import.robot
 *** Keywords ***
 Login
     [Arguments]    ${email}    ${password}

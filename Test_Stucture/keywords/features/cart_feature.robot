@@ -1,5 +1,3 @@
-*** Settings ***
-Resource    ../pages/import.robot
 *** Keywords ***
 Fill in delivery info and start payment process
     [Arguments]    ${name}    ${surname}    ${address}    ${phone}    ${email}

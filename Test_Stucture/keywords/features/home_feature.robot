@@ -1,6 +1,3 @@
-*** Settings ***
-Resource    ../pages/import.robot
-
 *** Keywords ***
 Add product to cart
     [Arguments]    ${product.product_name}    
