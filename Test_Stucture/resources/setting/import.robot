@@ -22,13 +22,13 @@ Resource    ${CURDIR}/../../keywords/pages/payment_page.robot
 Resource    ${CURDIR}/../../keywords/pages/cart_page.robot
 
 #locators path
-Resource    ${CURDIR}/../../keywords/locators/home_locator.robot
-Resource    ${CURDIR}/../../keywords/locators/cart_locator.robot
-Resource    ${CURDIR}/../../keywords/locators/common_locator.robot
-Resource    ${CURDIR}/../../keywords/locators/log_in_locator.robot
-Resource    ${CURDIR}/../../keywords/locators/payment_locator.robot
-Resource    ${CURDIR}/../../keywords/locators/register_locator.robot
-Resource    ${CURDIR}/../../keywords/locators/user_profile_locator.robot
+Resource    ${CURDIR}/../locators/home_locator.robot
+Resource    ${CURDIR}/../locators/cart_locator.robot
+Resource    ${CURDIR}/../locators/common_locator.robot
+Resource    ${CURDIR}/../locators/log_in_locator.robot
+Resource    ${CURDIR}/../locators/payment_locator.robot
+Resource    ${CURDIR}/../locators/register_locator.robot
+Resource    ${CURDIR}/../locators/user_profile_locator.robot
 
 #common path
 Resource    ${CURDIR}/../../keywords/commons/common.robot
